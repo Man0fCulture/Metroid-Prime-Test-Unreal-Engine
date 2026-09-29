@@ -67,3 +67,6 @@ Intermediate/
 
 # Cache files for the editor to use
 DerivedDataCache/
+
+# Project-specific local input asset
+/Metroid_Prime_Sprt1/Content/Input/My_IMC_Player.uasset
