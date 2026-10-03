@@ -1,0 +1,5 @@
+Tool: built-in ImageGen
+Transparent background: true
+Source: C:\Users\Moutah\AppData\Local\Temp\codex-clipboard-ab297236-0a27-47bd-b9d9-1b142e1fd0de.png
+
+Use case: background-extraction. Edit target: the supplied gameplay screenshot. Extract ONLY the long cyan segmented energy gauge across the top of this image, as a clean transparent-background PNG UI asset. Remove the entire gameplay scene, all scenery, all other interface elements and the '99' digits beneath the gauge. Keep the exact original gauge silhouette, shallow curved arc, slanted rectangular segments, spacing between them, relative thickness, cyan/blue colors and its existing gentle luminous shading. Preserve the shape faithfully; do not redesign it, straighten it, add a frame, extend it, add segments, add text or add extra graphic effects. Spaces between the segments and everywhere outside the gauge must be genuinely transparent, not filled black or white. Output an elongated horizontal strip tightly framed around the whole gauge with only a small transparent margin so it is usable as an Unreal UMG Fill Image. This is a cutout of the existing gauge, not a new illustration.
