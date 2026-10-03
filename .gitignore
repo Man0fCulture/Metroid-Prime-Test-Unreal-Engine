@@ -70,3 +70,5 @@ DerivedDataCache/
 
 # Project-specific local input asset
 /Metroid_Prime_Sprt1/Content/Input/My_IMC_Player.uasset
+
+Metroid_Prime_Sprt1/Content/Levels/Maps/LVL_Test.umap
